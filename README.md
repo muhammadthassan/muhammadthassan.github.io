@@ -4,16 +4,8 @@
   - degree: Master of Science in Artificial Intelligence and Data Science
     institution: Deggendorf Institute of Technology | University of South Bohemia
     
-    country: Germany | Czech Republic
-    
-    period: Mar 2023 – Present
-
   - degree: Bachelor of Science in Electrical and Computer Engineering
-    institution: Zagazig University
-    
-    country: Egypt
-    
-    period: Aug 2013 – Jul 2020
+    institution: Zagazig University    
 
 ### Experience:
   - role: Software Engineer @EA-Energy
