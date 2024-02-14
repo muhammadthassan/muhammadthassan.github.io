@@ -22,7 +22,8 @@ Hi, I'm Muhammad Hassan!   My dream is to become a professional engineer.  Fasci
 
 ### Projects:
 
-  - [Watt's Next?]()  
+  - [Watt's Next?](https://github.com/muhammadthassan/Watts-Next) Develop an AI-powered platform that forecasts energy consumption and CO2 emissions in specific regions to fight Climate change fueled by energy consumption and CO2 emissions, by Optimizeing energy usage, empower businesses and individuals, contribute to combating climate change.
+  
   - Semi Driver Assistant
     description: Designed and developed a CAN bus module for seamless integration with a real car, built a Python-based sniffing tool.
 
