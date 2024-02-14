@@ -1,21 +1,55 @@
 # Site settings
 title: Muhammad Hassan
 email: mohamedtareck95@gmail.com
-about: |
-    Hi, I'm Florian or @qwtel...
+description: >
+  Dedicated Data Analyst and Machine Learning Engineer currently pursuing a Master's in AI and Data Science. Experienced in mathematical modeling, advanced machine learning techniques, software engineering, IoT, and edge computing. Passionate about real-time, efficient data processing in critical environments.
 
-    This is another paragraph.
 author:
-  picture:  /assets/img/profile.png  
-  
-description: >- # this means to ignore newlines until "baseurl:"
-  A showcase of my data science and machine learning projects.
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: yourusername
-# github_username:  yourgithubusername
-author:
+  picture: /assets/img/profile.png
   social:
     twitter: qwtel
-    github:  qwtel
+    github: muhammadthassan
+
 theme: jekyll-theme-minimal
+
+# Custom sections
+education:
+  - degree: Master of Science in Artificial Intelligence and Data Science
+    institution: Deggendorf Institute of Technology | University of South Bohemia
+    country: Germany | Czech Republic
+    period: Mar 2023 – Present
+
+  - degree: Bachelor of Science in Electrical and Computer Engineering
+    institution: Zagazig University
+    country: Egypt
+    period: Aug 2013 – Jul 2020
+
+experience:
+  - role: Software Engineer
+    company: EA-Energy
+    location: USA
+    period: Mar 2021 – Jul 2023
+    description: Developed an edge computing system, implemented parallel computing techniques, and created a cloud-based digital twin.
+
+  - role: Curriculum Designer
+    company: LEGO Education
+    location: Cairo, Egypt
+    period: Jun 2019 – Feb 2021
+    description: Developed K-12 STEM Engineering and Robotics curricula, and delivered training sessions.
+
+projects:
+  - name: Semi Driver Assistant
+    description: Designed and developed a CAN bus module for seamless integration with a real car, built a Python-based sniffing tool.
+    period: Jul 2018
+
+  - name: Minesweeper Robot
+    description: Designed and developed an award-winning mine sweeper robot.
+    period: Mar 2016
+
+hydejack:
+  dark_mode:
+    dynamic: true
+    sunrise: 6
+    sunset: 18
+    icon: true
+    always: false
