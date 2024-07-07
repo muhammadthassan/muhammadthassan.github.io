@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "MUniverse"
+title                    : "Muhammad Hassan"
 title_separator          : "-"
 name                     : &name "Muhammad Hassan"
 description              : &description "Driven by a love of math and its real-world applications, I'm fascinated by the 'why' and 'how' of our world. My passion lies in exploring the intersection of nature, technology, and the boundless potential of space. Currently pursuing a master's in AI and Data Science in Germany and the Czech Republic, my journey aims towards understanding the intricate math behind NLP and Computer Vision models. My ultimate dream? To contribute to the groundbreaking work at NASA JPL and MIT."
@@ -31,12 +31,12 @@ author:
   email            : "mohamedtareck95@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
